@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portofile-ravindra/static/css/main.58a0c615.css",
+    "main.js": "/portofile-ravindra/static/js/main.0cd0dd95.js",
+    "static/media/HeroImage.jpg": "/portofile-ravindra/static/media/HeroImage.c0378604d325545aca77.jpg",
+    "index.html": "/portofile-ravindra/index.html",
+    "main.58a0c615.css.map": "/portofile-ravindra/static/css/main.58a0c615.css.map",
+    "main.0cd0dd95.js.map": "/portofile-ravindra/static/js/main.0cd0dd95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.0cd0dd95.js"
+  ]
+}
